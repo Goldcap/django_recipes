@@ -1,5 +1,0 @@
-[run]
-source = recipes
-omit = */migrations/*
-       */admin.py
-branch = True
